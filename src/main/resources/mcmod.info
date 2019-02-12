@@ -1,0 +1,16 @@
+[
+{
+  "modid": "squash",
+  "name": "Squash",
+  "description": "Anvils squash things!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/ochotonida/squash",
+  "updateUrl": "https://github.com/ochotonida/squash/blob/master/update.json",
+  "authorList": ["ochotonida"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
